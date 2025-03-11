@@ -17,7 +17,7 @@ var serverList = [
 	{
 		apiKey: "AIzaSyDiJsMLlix5o9XqPW1EpeBvuA15XNjlR8M",
 		authDomain: "car-game-a86b9.firebaseapp.com",
-		databaseURL: "https://car-game-a86b9.firebaseio.com",
+		databaseURL: "https://jchabin-cars-default-rtdb.europe-west1.firebasedatabase.app/",
 		projectId: "car-game-a86b9",
 		storageBucket: "car-game-a86b9.appspot.com",
 		messagingSenderId: "722396856191",
